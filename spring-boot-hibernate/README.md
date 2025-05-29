@@ -4,10 +4,7 @@ A beginner-friendly, full-stack RESTful Student Management Application using Spr
 
 ---
 
-##  Concepts Covered (With Notes)
-
-### 1. Spring Boot
-
+##  Concepts 
 - Simplifies Java backend development.
 - Uses embedded servers like **Tomcat**.
 - Has `@SpringBootApplication` to bootstrap the app.
